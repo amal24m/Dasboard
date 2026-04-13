@@ -1,0 +1,85 @@
+[
+  {
+    "date": "2026-04-09",
+    "total": 10408,
+    "no_breach_pct": 96.2,
+    "lm_breach_pct": 6.6,
+    "mm_breach_pct": 2.8,
+    "rto_pct": 1.9,
+    "by_service": {
+      "Air- Intercity": {
+        "vol": 3346,
+        "perf": 92.77
+      },
+      "Intracity NDD": {
+        "vol": 2082,
+        "perf": 98.94
+      },
+      "Intracity SDD": {
+        "vol": 2154,
+        "perf": 98.79
+      },
+      "Zonal + Air- Intercity": {
+        "vol": 233,
+        "perf": 95.28
+      },
+      "Zonal NDD": {
+        "vol": 2593,
+        "perf": 96.41
+      }
+    },
+    "by_dc": {
+      "Ahmedabad DC": {
+        "vol": 36,
+        "perf": 100.0
+      },
+      "Bangalore DC": {
+        "vol": 5594,
+        "perf": 98.11
+      },
+      "Chennai DC": {
+        "vol": 377,
+        "perf": 94.69
+      },
+      "Hyderabad DC": {
+        "vol": 1324,
+        "perf": 98.41
+      },
+      "Kolkata DC": {
+        "vol": 439,
+        "perf": 97.04
+      },
+      "Lucknow DC": {
+        "vol": 22,
+        "perf": 77.27
+      },
+      "Mumbai DC": {
+        "vol": 12,
+        "perf": 100.0
+      },
+      "NCR Bamnoli DC": {
+        "vol": 2345,
+        "perf": 90.41
+      },
+      "Pune DC": {
+        "vol": 259,
+        "perf": 98.46
+      }
+    },
+    "attribution": {
+      "No Breach": 96.21,
+      "DDC Connection miss": 0.85,
+      "Retrieval Delay": 0.68,
+      "ODC Connection miss": 0.64,
+      "Pending LM Inscan": 0.55,
+      "1+ Day Eligible": 0.39,
+      "Air offload": 0.15,
+      "AH-Intransit": 0.14,
+      "Hub Capping": 0.13,
+      "JIT/AD miss": 0.12,
+      "1st MR miss": 0.11,
+      "Surface Tagging": 0.01,
+      "RTO": 0.01
+    }
+  }
+]

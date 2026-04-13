@@ -1,0 +1,87 @@
+[
+  {
+    "date": "2026-04-09",
+    "pivot": {
+      "Air- Intercity": {
+        "Vol": 3346,
+        "No Breach": 0.9276748356246264,
+        "ODC Connection miss": 0.014046622833233711,
+        "1st MR miss": 0.0,
+        "DDC Connection miss": 0.011655708308427973,
+        "JIT/AD miss": 0.0,
+        "AH-Intransit": 0.004482964734010759,
+        "Air offload": 0.004781829049611476,
+        "Surface Tagging": 0.00029886431560071725,
+        "Retrieval Delay": 0.021219366407650927,
+        "Hub Capping": 0.00328750747160789,
+        "RTO": 0.0,
+        "Pending LM Inscan": 0.005678421996413628,
+        "1+ Day Eligible": 0.006873879258816497
+      },
+      "Intracity NDD": {
+        "Vol": 2082,
+        "No Breach": 0.989433237271854,
+        "ODC Connection miss": 0.0,
+        "1st MR miss": 0.005283381364073006,
+        "DDC Connection miss": 0.0,
+        "JIT/AD miss": 0.0,
+        "AH-Intransit": 0.0,
+        "Air offload": 0.0,
+        "Surface Tagging": 0.0,
+        "Retrieval Delay": 0.0,
+        "Hub Capping": 0.0,
+        "RTO": 0.0,
+        "Pending LM Inscan": 0.005283381364073006,
+        "1+ Day Eligible": 0.0
+      },
+      "Intracity SDD": {
+        "Vol": 2154,
+        "No Breach": 0.9879294336118849,
+        "ODC Connection miss": 0.0,
+        "1st MR miss": 0.0,
+        "DDC Connection miss": 0.009749303621169917,
+        "JIT/AD miss": 0.0,
+        "AH-Intransit": 0.0,
+        "Air offload": 0.0,
+        "Surface Tagging": 0.0,
+        "Retrieval Delay": 0.0,
+        "Hub Capping": 0.0,
+        "RTO": 0.0,
+        "Pending LM Inscan": 0.001392757660167131,
+        "1+ Day Eligible": 0.0009285051067780873
+      },
+      "Zonal + Air- Intercity": {
+        "Vol": 233,
+        "No Breach": 0.9527896995708155,
+        "ODC Connection miss": 0.0,
+        "1st MR miss": 0.0,
+        "DDC Connection miss": 0.034334763948497854,
+        "JIT/AD miss": 0.0,
+        "AH-Intransit": 0.0,
+        "Air offload": 0.0,
+        "Surface Tagging": 0.0,
+        "Retrieval Delay": 0.0,
+        "Hub Capping": 0.012875536480686695,
+        "RTO": 0.0,
+        "Pending LM Inscan": 0.0,
+        "1+ Day Eligible": 0.0
+      },
+      "Zonal NDD": {
+        "Vol": 2593,
+        "No Breach": 0.9641342074816814,
+        "ODC Connection miss": 0.007713073659853451,
+        "1st MR miss": 0.0,
+        "DDC Connection miss": 0.007713073659853451,
+        "JIT/AD miss": 0.004627844195912071,
+        "AH-Intransit": 0.0,
+        "Air offload": 0.0,
+        "Surface Tagging": 0.0,
+        "Retrieval Delay": 0.0,
+        "Hub Capping": 0.0,
+        "RTO": 0.0003856536829926726,
+        "Pending LM Inscan": 0.009255688391824142,
+        "1+ Day Eligible": 0.006170458927882761
+      }
+    }
+  }
+]
