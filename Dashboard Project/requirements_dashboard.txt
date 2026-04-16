@@ -1,7 +1,0 @@
-# C2 Performance Dashboard — web dependencies
-# Install with:  pip install -r requirements_dashboard.txt
-
-streamlit>=1.28.0
-pandas>=1.5.0
-openpyxl>=3.0.10
-plotly>=5.15.0
